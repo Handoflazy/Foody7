@@ -1,4 +1,4 @@
-package com.example.foody7.ui.Favorite
+package com.example.foody7.ui.fragment.Favorite
 
 import android.os.Bundle
 import android.view.LayoutInflater
